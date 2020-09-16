@@ -1,0 +1,14 @@
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\bin\Debug\Login_RegisterTutorial.exe.config
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\bin\Debug\Login_RegisterTutorial.exe
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\bin\Debug\Login_RegisterTutorial.pdb
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.csprojAssemblyReference.cache
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.Form1.resources
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.Properties.Resources.resources
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.csproj.GenerateResource.cache
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.csproj.CoreCompileInputs.cache
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.exe
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.pdb
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.Registr.resources
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\obj\Debug\Login_RegisterTutorial.Main.resources
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\bin\Debug\LogIn_Registr+DB.mdf
+C:\Users\GamingHX BOOM\source\repos\Login_RegisterTutorial\Login_RegisterTutorial\bin\Debug\LogIn_Registr+DB_log.ldf

@@ -1,0 +1,11 @@
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\bin\Debug\LoginTutorial.exe.config
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\bin\Debug\LoginTutorial.exe
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\bin\Debug\LoginTutorial.pdb
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\obj\Debug\LoginTutorial.csprojAssemblyReference.cache
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\obj\Debug\LoginTutorial.Form1.resources
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\obj\Debug\LoginTutorial.Menu.resources
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\obj\Debug\LoginTutorial.Properties.Resources.resources
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\obj\Debug\LoginTutorial.csproj.GenerateResource.cache
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\obj\Debug\LoginTutorial.csproj.CoreCompileInputs.cache
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\obj\Debug\LoginTutorial.exe
+C:\Users\GamingHX BOOM\source\repos\LoginTutorial\LoginTutorial\obj\Debug\LoginTutorial.pdb
